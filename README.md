@@ -13,12 +13,5 @@
 7. A .container osztály számára állítson be navy háttérszínt.
 8. A .container osztály számára állítson be fehér betűszínt.
 9. A h1 elemben a főcím legyen középre igazítva.
-2. Állítsa be az oldal nyelvét magyarra.
-3. Hozzon létre egy 001.css CSS fájlt, minden CSS beállítást ebben a fájlban végezzen el.
-4. A h1 elem számára állítson be középre igazítást.
-6. A h1 elem számára állítson be navy háttérszínt.
-7. A h1 elem szöveges tartalma legyen fehér színű.
-8. Tegye az egész tartalmat egy div elembe, majd állítson be container osztályjelölőt.
-9. A container div számára állítson be arany háttérszínt.
 
 ![](minta_0002.png)
